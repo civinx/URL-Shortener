@@ -1,0 +1,20 @@
+[
+    {
+        "model": "URLshortener.Record",
+        "pk": 1,
+        "fields": {
+            "long_name": "something@gmail.com",
+            "short_name": "232.com",
+            "create_time": "2018-02-14 00:00:00"
+        }
+    },
+    {
+        "model": "URLshortener.Record",
+        "pk": 2,
+        "fields": {
+           "long_name": "somehing@gmail.com",
+            "short_name": "@222.com",
+            "create_time": "2018-02-14 00:00:00"
+        }
+    }
+]
